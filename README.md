@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayyanRafikh
-- 👀 I’m interested in Embedded Systems, Robotics, Automation, AI, Full stack development, App Dev, UI/IX design and lots more.
-- 🌱 I’m currently learning design, machine learning artificial intelligence, autonomous systems and aerospace systems.
-- 💞️ I’m looking to collaborate on everything and anything tech-driven or which solves the earth's and it's human's problems.
+- 👀 I’m interested in Robotics, Autonomous Systems and  AI.
+- I study and research Perception and Planning in Robotics and Autonomous Systems. 
+- 🌱 I aim to apply my knowledge on Robotics for Space, Defense, and Humanoid Robotics. 
 - 📫 You can reach me at rayyanrafikh6@gmail.com, or through my linkedin page 
 
 <!---
